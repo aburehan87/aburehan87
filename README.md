@@ -35,6 +35,7 @@ Java Backend Development · DSA · Software Engineering · Computer Vision
   <tr>
     <td width="50%" valign="top">
       <h3>🧩 CRM Application</h3>
+      <a href="https://github.com/aburehan87/CRM-Application"><img src="https://github.com/user-attachments/assets/4b449127-47d8-4413-a9cb-25818ae6a7dd" alt="CRM Application preview" width="100%" /></a>
       <p>A full-stack customer relationship management application with an interactive React interface and a Java backend.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -64,6 +65,7 @@ Java Backend Development · DSA · Software Engineering · Computer Vision
     </td>
     <td width="50%" valign="top">
       <h3>💪 MyFitness</h3>
+      <a href="https://github.com/aburehan87/MyFitness"><img src="https://i.ibb.co/Yt9spGc/image.png" alt="MyFitness React application preview" width="100%" /></a>
       <p>A React-based fitness application project.</p>
       <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></p>
       <a href="https://github.com/aburehan87/MyFitness">View project →</a>
