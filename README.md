@@ -31,10 +31,45 @@ Java Backend Development · DSA · Software Engineering · Computer Vision
 
 ### 🚀 Featured Projects
 
-- **[CRM Application](https://github.com/aburehan87/CRM-Application)** — Full-stack CRM web application using React, Spring Boot, PostgreSQL, and JWT-based authentication.
-- **[PDF Question-Answering Chat App](https://github.com/aburehan87/chat-app)** — Application that accepts PDFs and answers questions about their content.
-- **[Deepfake Video Detection](https://github.com/aburehan87/Deepfake-Video-Detection)** — Deep learning project using ResNeXt and LSTM, with a Django application for video-based predictions.
-- **[My Portfolio](https://github.com/aburehan87/MyPortfolio)** — Personal portfolio website.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 CRM Application</h3>
+      <p>A full-stack customer relationship management application with an interactive React interface and a Java backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      </p>
+      <a href="https://github.com/aburehan87/CRM-Application">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎭 DeepFake Video Detection</h3>
+      <p>A deep-learning project using ResNeXt and LSTM to classify uploaded videos, with a Django application for predictions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Deep_Learning-7B61FF?style=flat-square" alt="Deep Learning" />
+        <img src="https://img.shields.io/badge/ResNeXt%20%2B%20LSTM-0A7EA4?style=flat-square" alt="ResNeXt + LSTM" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      </p>
+      <a href="https://github.com/aburehan87/Deepfake-Video-Detection">View project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce Web Application</h3>
+      <p>A web application project focused on the e-commerce experience.</p>
+      <p><img src="https://img.shields.io/badge/Web_Development-0A7EA4?style=flat-square" alt="Web Development" /></p>
+      <a href="https://github.com/aburehan87/E-Commerce-Web-Application.">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 MyFitness</h3>
+      <p>A React-based fitness application project.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></p>
+      <a href="https://github.com/aburehan87/MyFitness">View project →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
