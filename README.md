@@ -84,7 +84,9 @@ Java Backend Development · DSA · Software Engineering · Computer Vision
 
 ### 📫 Connect
 
-- GitHub: [@aburehan87](https://github.com/aburehan87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rehannasirwaddo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-wheat-three-24.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aburehan87)
 
 ---
 
