@@ -47,6 +47,13 @@ Java Backend Development · DSA · Software Engineering · Computer Vision
     </td>
     <td width="50%" valign="top">
       <h3>🎭 DeepFake Video Detection</h3>
+      <a href="https://github.com/aburehan87/Deepfake-Video-Detection">
+  <img
+    src="https://github.com/user-attachments/assets/d18a816a-f3b3-469a-bc75-6b81b1ea547d"
+    alt="DeepFake Video Detection preview"
+    width="100%"
+  />
+</a>
       <p>A deep-learning project using ResNeXt and LSTM to classify uploaded videos, with a Django application for predictions.</p>
       <p>
         <img src="https://img.shields.io/badge/Deep_Learning-7B61FF?style=flat-square" alt="Deep Learning" />
