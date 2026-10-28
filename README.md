@@ -49,7 +49,7 @@ Java Backend Development · DSA · Software Engineering · Computer Vision
       <h3>🎭 DeepFake Video Detection</h3>
       <a href="https://github.com/aburehan87/Deepfake-Video-Detection">
   <img
-    src="https://github.com/user-attachments/assets/d18a816a-f3b3-469a-bc75-6b81b1ea547d"
+    src="https://github.com/user-attachments/assets/9d79c948-904d-4db4-8698-1d1085c2013a"
     alt="DeepFake Video Detection preview"
     width="100%"
   />
